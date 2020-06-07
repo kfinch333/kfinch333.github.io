@@ -1,0 +1,144 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  
+  <url>
+    <loc>https://keithfinch.me/post/getting-started/</loc>
+    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/</loc>
+    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/post/</loc>
+    <lastmod>2019-05-03T09:37:55+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/post/portfolio-definition/</loc>
+    <lastmod>2019-05-02T19:49:05+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/techs/d3/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/designs/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/techs/javascript/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/designs/photoshop/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/portfolio/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/portfolio/new-folder-2/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/portfolio/new-folder-3/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/portfolio/new-folder/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/portfolio/sample-project/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/techs/</loc>
+    <lastmod>2019-05-02T19:47:09+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/post/archetypes/</loc>
+    <lastmod>2019-05-02T19:25:30+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/post/manage-your-menu/</loc>
+    <lastmod>2019-05-02T19:06:29+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/post/shortcodes/</loc>
+    <lastmod>2019-04-29T16:18:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/post/config-file/</loc>
+    <lastmod>2019-04-20T16:18:12+01:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/post/define-specific-og-image/</loc>
+    <lastmod>2019-04-20T11:14:59+02:00</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+  <url>
+    <loc>https://keithfinch.me/about/</loc>
+    <changefreq>monthly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  
+</urlset>
